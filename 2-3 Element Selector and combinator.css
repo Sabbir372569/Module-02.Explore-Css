@@ -1,0 +1,58 @@
+
+/*Id selector
+   Example:-*/
+   #top{
+    background-color: palegoldenrod;
+      }
+
+
+/*Multiple class selector*/
+
+#develop
+  .fold{
+     font-size: 60px;
+     text-align: center;
+     padding-top: 110px;
+      }
+
+  .fork{
+    color:antiquewhite;
+    background-color:cadetblue;
+  }
+
+
+
+
+/*class selector*/
+.English{
+  color:rgb(21, 1, 1);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: bisque;
+  text-align: center;
+  padding-top: 22px;
+  padding-bottom: 22px;
+}
+
+
+
+
+
+
+
+/* Universal selector
+      If we can use Universal selector Then we will use (* Astric symbol)
+      Such As:- */
+     *{
+        background-color: burlywood;
+      }
+  
+
+
+/*Grouping selector
+      such as:-
+   
+      h1,p,blockqute{
+                   background-color:burlwood;
+                  } 
+*/  
+

@@ -1,0 +1,68 @@
+
+
+*{
+    background-color:darkcyan;
+}
+
+
+.emoji  h2{
+        color:tan;
+        font-size: 40px;
+        text-align: center;  
+    }
+
+.emoji  p{
+        color:blanchedalmond;
+        font-size: 17px; 
+       }
+    
+       
+        /*decendent selector
+   div p{
+        color:blanchedalmond;
+        font-size: 17px;
+        text-size-adjust:17px ;
+    }  
+  */  
+
+
+
+  /*child selector
+        div > p{
+            color:blanchedalmond;
+            font-size: 17px;
+            text-size-adjust:17px ;
+    }
+  */
+
+
+
+  /*adjuscent selector
+        div + p{
+            color:blanchedalmond;
+            font-size: 17px;
+            text-size-adjust:17px ;
+    }
+  
+  */
+
+
+ /* general sibling selector
+   div ~  p{
+            color:blanchedalmond;
+            font-size: 17px;
+            text-size-adjust:17px ;
+    }
+  
+  */
+
+.Music{
+    color:wheat;
+    font-size:24px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+}
+
+.song{
+  color:darkgray;
+  font-size: 5rem;
+}

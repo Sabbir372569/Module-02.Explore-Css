@@ -1,0 +1,60 @@
+
+.blog1{
+    background-color: darkcyan;
+    padding:10px;
+    padding-left:10px;
+    padding-right:10px;
+    border:2px solid goldenrod;
+    border-radius: 20px;
+    text-align: justify;
+    margin:10px,10px,10px,10px;
+}
+.blog2 h3{
+    background-color: rgb(92, 106, 231);
+    padding:10px;
+    padding-left:10px;
+    padding-right:10px;
+    border:2px solid rgb(73, 33, 4);
+    border-radius: 20px;
+    text-align: justify;  
+}
+
+.blog3 h3{
+    background-color: rgb(203, 157, 97);
+    padding:10px;
+    padding-left:10px;
+    padding-right:10px;
+    border:2px solid rgb(24, 17, 1);
+    border-radius: 20px;
+    text-align: justify;
+}
+
+.blog4{
+    background-color: rgb(198, 133, 141);
+    padding:10px;
+    padding-left:10px;
+    padding-right:10px;
+    border:2px solid rgb(85, 62, 4);
+    border-radius: 20px;
+    text-align: justify;
+}
+p{
+    text-indent:35px;
+    padding-top:-20px;
+}
+h3{
+    text-decoration: underline;
+}
+.new{
+    border:2px solid goldenrod;
+    margin:15px;
+    text-align:left;
+    padding:5px;
+    display:inline-block;
+    
+
+}
+
+
+
+

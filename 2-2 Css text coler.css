@@ -1,0 +1,28 @@
+h3{
+    text-align:center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:azure;
+    background-color: rgb(135, 114, 114);
+    padding-left: 10px;
+}
+
+
+.course{
+    text-align: center;
+    color:white;
+    background-color:rgba(24, 112, 171, 0.621);
+    padding:5px 0px 5px 15px;
+    text-decoration: none;
+    font-size:large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.serious{
+    text-indent:3rem;
+    color:rgb(106, 59, 6);
+    padding:5px 0px 5px 10px;
+    background-color:rgba(24, 112, 171, 0.621);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+pre{
+    background-image: -moz-element(andrew-romanov-teajpeg);
+}
